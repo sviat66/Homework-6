@@ -109,7 +109,19 @@ nav ul li {
 .footer{
     padding: 10px;
     text-align: center;
-
+    color: white;
 }
+.p__footer {
+    border-bottom: solid 2px white;
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+span{
+    color: #19c8fa;
+}
+/* як розсунути логотпи соц. мереж ? */
+
 
 
